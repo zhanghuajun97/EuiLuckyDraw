@@ -1,0 +1,240 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,gun6_png,gun7_png,gun8_png,gun9_png,gun10_png,gun11_png,gun12_png,gun13_png,gun14_png,gun15_png,gun16_png,xuanzhong_png,bg_png,btn_png,gun1_png,gun2_png,gun3_png,gun4_png,gun5_png,bg2_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "gun6_png",
+			"type": "image",
+			"url": "assets/image/gun6.png"
+		},
+		{
+			"name": "gun7_png",
+			"type": "image",
+			"url": "assets/image/gun7.png"
+		},
+		{
+			"name": "gun8_png",
+			"type": "image",
+			"url": "assets/image/gun8.png"
+		},
+		{
+			"name": "gun9_png",
+			"type": "image",
+			"url": "assets/image/gun9.png"
+		},
+		{
+			"name": "gun10_png",
+			"type": "image",
+			"url": "assets/image/gun10.png"
+		},
+		{
+			"name": "gun11_png",
+			"type": "image",
+			"url": "assets/image/gun11.png"
+		},
+		{
+			"name": "gun12_png",
+			"type": "image",
+			"url": "assets/image/gun12.png"
+		},
+		{
+			"name": "gun13_png",
+			"type": "image",
+			"url": "assets/image/gun13.png"
+		},
+		{
+			"name": "gun14_png",
+			"type": "image",
+			"url": "assets/image/gun14.png"
+		},
+		{
+			"name": "gun15_png",
+			"type": "image",
+			"url": "assets/image/gun15.png"
+		},
+		{
+			"name": "gun16_png",
+			"type": "image",
+			"url": "assets/image/gun16.png"
+		},
+		{
+			"name": "xuanzhong_png",
+			"type": "image",
+			"url": "assets/image/xuanzhong.png"
+		},
+		{
+			"name": "bg_png",
+			"type": "image",
+			"url": "assets/image/bg.png"
+		},
+		{
+			"name": "btn_png",
+			"type": "image",
+			"url": "assets/image/btn.png"
+		},
+		{
+			"name": "gun1_png",
+			"type": "image",
+			"url": "assets/image/gun1.png"
+		},
+		{
+			"name": "gun2_png",
+			"type": "image",
+			"url": "assets/image/gun2.png"
+		},
+		{
+			"name": "gun3_png",
+			"type": "image",
+			"url": "assets/image/gun3.png"
+		},
+		{
+			"name": "gun4_png",
+			"type": "image",
+			"url": "assets/image/gun4.png"
+		},
+		{
+			"name": "gun5_png",
+			"type": "image",
+			"url": "assets/image/gun5.png"
+		},
+		{
+			"name": "bg2_png",
+			"type": "image",
+			"url": "assets/image/bg2.png"
+		}
+	]
+}

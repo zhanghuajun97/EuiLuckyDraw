@@ -1,0 +1,30 @@
+{
+  "16eef0a2b2a": {
+    "path": "..\\resource\\assets\\skins\\PrizeOveritemScene.ts",
+    "class": "PrizeOveritemScene",
+    "parentPath": ""
+  },
+  "16eef0cf0e3": {
+    "path": "..\\resource\\skins\\PrizeOveritemScene.ts",
+    "class": "PrizeOveritemScene",
+    "parentPath": ""
+  },
+  "16eef0ded02": {
+    "path": "..\\resource\\skins\\RotaryTableViewSceneSkin.ts",
+    "class": "RotaryTableViewSceneSkin",
+    "parentPath": ""
+  },
+  "16ef7e13f5d": {
+    "path": "..\\resource\\skins\\page.ts",
+    "class": "page",
+    "parentPath": ""
+  },
+  "global": {
+    "globalAutoLayerMarkEnable": true
+  },
+  "16efeb4eb94": {
+    "path": "..\\resource\\skins\\s.ts",
+    "class": "s",
+    "parentPath": ""
+  }
+}
